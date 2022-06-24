@@ -95,7 +95,7 @@
         <jacoco-maven-plugin.version>0.7.9</jacoco-maven-plugin.version>
         <slf4j.version>1.7.25</slf4j.version>
         <logback.version>1.2.3</logback.version>
-        <resteasy.client.version>3.6.2.Final</resteasy.client.version>
+        <resteasy.client.version>3.14.0.Final</resteasy.client.version>
         <jclouds.version>2.1.2</jclouds.version>
         <javax.ws.rs.version>2.1.1</javax.ws.rs.version>
         <openstack4j.version>3.2.0</openstack4j.version>
