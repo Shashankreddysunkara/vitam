@@ -102,7 +102,7 @@
         <awssdk.v1.version>1.11.488</awssdk.v1.version>
         <thaiopensource.version>20091111</thaiopensource.version>
         <guava.version>27.0.1-jre</guava.version>
-        <log4j2.version>2.11.1</log4j2.version>
+        <log4j2.version>2.17.1</log4j2.version>
         <commons-logging.version>1.2</commons-logging.version>
         <commons-io.version>2.6</commons-io.version>
         <commons-lang3>3.8.1</commons-lang3>
