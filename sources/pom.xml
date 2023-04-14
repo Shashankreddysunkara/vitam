@@ -120,7 +120,7 @@
         <flapdoodle.version>2.1.1</flapdoodle.version>
         <yandex.version>1.21</yandex.version>
         <staxon.version>1.3</staxon.version>
-        <org.json.version>20180813</org.json.version>
+        <org.json.version>20230227</org.json.version>
         <json-unit-version>2.3.0</json-unit-version>
         <jhades.version>1.0.4</jhades.version>
         <javax.servlet.version>4.0.1</javax.servlet.version>
